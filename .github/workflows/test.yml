@@ -1,4 +1,4 @@
-name: Test dfu-programmer with coverage reporting
+: Test dfu-programmer with coverage reporting
 
 on:
   push:
